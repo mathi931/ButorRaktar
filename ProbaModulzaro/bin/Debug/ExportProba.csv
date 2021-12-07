@@ -1,0 +1,12 @@
+﻿RKT;00001;Raktár 1.aaaaaa;1132;Budapest;Kő utca;1.;15;True
+FAB;FAB00001;Íróasztal;2000;0;0;False;12500;0;False
+FAB;FAB00002;Karosszék;2010;0;0;False;11630;0;False
+FEM;FEM00001;Könyvespolc;2010;0;0;False;16250;0;False
+FEM;FEM00002;Faliszekrény;2007;0;0;False;21280;0;False
+RKT;00002;Raktár 2.;1205;Budapest;Szigligeti utca;15.;10;False
+FAB;FAB00001;Konyhai szék;2005;0;0;False;17560;0;False
+FAB;FAB00002;Beépített szekrényaaaa;2007;0;0;False;86700;0;False
+FEM;FEM00001;Camping asztal;2016;0;0;False;47340;0;False
+FEM;FEM00002;Szerszámtartó polc;2012;0;0;False;23999;0;False
+RKT;00003;Raktár 3.;1101;Budapest;Ács utca;10.;20;True
+FAB;FAB00001;Dohányzóasztal;2000;0;0;False;15620;0;False
